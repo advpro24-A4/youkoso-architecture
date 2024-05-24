@@ -20,3 +20,10 @@
 #### Deployment Diagrams
 ![Deployment](images/deployment-diagram.png)
 
+#### Voucher Code Diagram - (1) Model, (2) Repository, (3) Controller, (4) Service, (5) ServiceImpl 
+
+![alt text](<images/voucher-code-diagram.png>)
+
+#### Voucher Component Diagram
+
+![alt text](images/voucher-component.png)
