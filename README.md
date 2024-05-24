@@ -10,10 +10,12 @@
 - **2006482003 - Hanif Ibrahim Syuaib**
 - **2206081654 - Muhammad Nanda Pratama**
 
-#### Context Diagrams
+#### Context Diagram
 
-![context diagram](images/context-diagram.png?raw=true)
+![context diagram](images/context-diagram.png)
 
 #### Deployment Diagrams
+![Deployment](images/deployment-diagram.png)
 
-![alt text](images/deployment-diagram.png)
+#### Container Diagram
+![Container Diagram](images/container-diagram.png)
