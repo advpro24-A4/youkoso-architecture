@@ -14,8 +14,9 @@
 
 ![context diagram](images/context-diagram.png)
 
+#### Container Diagram
+![Container Diagram](images/container-diagram.png)
+
 #### Deployment Diagrams
 ![Deployment](images/deployment-diagram.png)
 
-#### Container Diagram
-![Container Diagram](images/container-diagram.png)
